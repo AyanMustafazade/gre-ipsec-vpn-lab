@@ -84,3 +84,34 @@ were functioning correctly.
 This project was completed in a controlled educational lab environment
 using Cisco Packet Tracer.
 
+## Project Evidence
+
+### 1. Network Topology
+The network topology used for the GRE over IPsec VPN implementation.
+
+![Network Topology](01-network-topology.png)
+
+### 2. GRE Tunnel Configuration
+GRE tunnel configuration between the remote routers.
+
+![GRE Tunnel Configuration](02-gre-tunnel-configuration.png)
+
+### 3. GRE Routing & Verification
+Routing configuration and connectivity verification after establishing the GRE tunnel.
+
+![GRE Routing Verification](03-gre-routing-verification.png)
+
+### 4. IPsec / ISAKMP Configuration
+ISAKMP configuration used to establish the secure VPN parameters.
+
+![ISAKMP Configuration](04-ipsec-isakmp-configuration.png)
+
+### 5. IPsec Transform Set
+IPsec transform-set configuration using AES-256 encryption and SHA-HMAC authentication.
+
+![IPsec Transform Set](05-ipsec-transform-set.png)
+
+### 6. Final Connectivity Test
+Final connectivity verification after completing the GRE over IPsec VPN configuration.
+
+![Final Connectivity Test](06-final-connectivity-test.png)
